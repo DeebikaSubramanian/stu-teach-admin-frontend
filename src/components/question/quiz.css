@@ -1,0 +1,66 @@
+.quizcontainer
+{
+   align-items: center;
+   padding:20%;
+}
+
+.quiztable
+{
+    margin:30px;
+   
+}
+.quizquestion
+{
+    color:#ffdd40;
+    font-size: 20px;
+}
+.quizoptions
+{
+    color:white;
+    font-size:large;
+    text-align: left;
+}
+
+.nextbutton
+{
+    width:25%;
+    margin-right: 5px;
+    height:1cm; 
+    border-radius:8px;
+    background-color:#ffdd40;
+    color:#1f5156;
+    
+    font-size:15px;
+}
+.ReportHeading
+{
+    color:#ffdd40;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.congrts
+{
+    color:white;
+    font-size: 20px;
+}
+.score
+{
+    color:#ffdd40;
+}
+.scoretotal
+{
+    color:red;
+    font-weight:bolder ;
+}
+.totallength
+{
+    color:red;
+    font-weight:bolder ;
+}
+.tryagain
+{
+    color:red;
+    text-decoration: underline;
+    font-size: 20px;
+}

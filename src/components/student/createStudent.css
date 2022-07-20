@@ -1,0 +1,38 @@
+.student
+{
+   color:"white";
+   height:100%;
+}
+.FormHeading
+{
+    color:#ffdd40;
+}
+.studentform
+{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.formInput
+{
+    margin-top:1cm;
+width:30%;
+height:1cm;
+}
+.formBtn
+{
+    margin-top:1cm;
+    width:20%;
+    height:1cm; 
+    border-radius:8px;
+    background-color:red;
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+}
+.link
+{
+    display:flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,86 @@
+.dashboard
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 5%; */
+
+}
+.studiv
+{
+    /* border: 2px solid white; */
+    border-left: 5px red solid;
+    height: 20%;
+    width: 30%;
+    background-color: blue;
+
+}
+.stu
+{
+font-size: 20px;
+font-weight: bold;
+color:#f5b921;
+text-align: left;
+}
+.stu-no
+{
+font-size: 30px;
+font-weight: bold;
+color:#099e36;
+text-align: right;
+margin-right: 30px;
+
+}
+.teachdiv
+{
+    margin-top:30px;
+    /* border: 2px solid white; */
+    border-left: 5px rgb(11, 212, 21) solid;
+    height: 20%;
+    width: 30%;
+    background-color: rgb(240, 236, 40);
+
+}
+.teach
+{
+font-size: 20px;
+font-weight: bold;
+color:#eb4605;
+text-align: left;
+}
+.teach-no
+{
+font-size: 30px;
+font-weight: bold;
+color:#099e36;
+text-align: right;
+margin-right: 30px;
+
+}
+.quesdiv
+{
+    margin-top:30px;
+    /* border: 2px solid white; */
+    border-left: 5px rgb(226, 230, 27) solid;
+    height: 20%;
+    width: 30%;
+    background-color: rgb(201, 20, 20);
+
+}
+.ques
+{
+font-size: 20px;
+font-weight: bold;
+color:#1f5156;
+text-align: left;
+}
+.ques-no
+{
+font-size: 30px;
+font-weight: bold;
+color:#099e36;
+text-align: right;
+margin-right: 30px;
+
+}

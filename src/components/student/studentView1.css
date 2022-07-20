@@ -1,0 +1,27 @@
+.questionview1
+{
+    margin-top:30px;
+}
+.label
+{
+    font-size:20px;
+    text-align:center;
+    color:#ffdd40;
+}
+.data
+{
+    color:white !important;
+}
+.btn
+{
+    
+    margin-top:1cm !important;
+    width:10%;
+    height:1cm; 
+    /* border-radius:8px;
+    background-color:#ffdd40; */
+    color:#ffdd40;
+    font-weight:bold;
+    font-size:20px;
+    
+}

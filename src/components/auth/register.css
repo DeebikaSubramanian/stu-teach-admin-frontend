@@ -1,0 +1,33 @@
+.register
+{
+    color:"white";
+    height:100%;
+}
+.registerForm
+{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.registerInput
+{
+    margin-top:1cm;
+    width:30%;
+    height:1cm;
+}
+.registerBtn
+{
+    margin-top:1cm;
+    width:10%;
+    height:1cm; 
+    border-radius:8px;
+    background-color:#ffdd40;
+    color:#1f5156;
+    font-weight:bold;
+    font-size:20px;
+}
+.loginclass
+{
+    color:red;
+}
